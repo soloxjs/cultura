@@ -1,7 +1,7 @@
 # Nutzungsvereinbarung
 > Mit dem Einladen des Bots Cultura und der Nutzung dessen Funktionen (Befehle und Systeme) stimmen Sie den unten folgenden Nutzungsbedingungen sowie der Datenschutzerklärung des Bots zu.
 > 
-> Sie bestätigen, dass sie den Bot auf jedem Server, den sie mit eben diesem teilen frei nutzen und mit den Rechten "Server verwalten" einladen können. Hiermit erklären sie ebenso, dass ihnen dieses Recht bei Verstoß gegen die Nutzungsbedingungen (https://discord.com/terms) und die Datenschutzbestimmungen (https://discord.com/privacy), als auch gegen die Community Richtlinien (https://discord.com/guidelines) von Discord Inc. (https://discord.com/) entzogen werden kann.
+> Sie bestätigen, dass sie den Bot auf jedem Server, den sie mit eben diesem teilen frei nutzen und mit den Rechten "Server verwalten" einladen können. Hiermit erklären sie ebenso, dass ihnen dieses Recht bei Verstoß gegen die [Nutzungsbedingungen](https://discord.com/terms) und die [Datenschutzbestimmungen](https://discord.com/privacy), als auch gegen die [Community Richtlinien](https://discord.com/guidelines) von [Discord Inc.](https://discord.com/) entzogen werden kann.
 > 
 > Durch das Einladen werden spezifische Daten von den Systemen Culturas gespeichert, welche in den Datenschutzbestimmungen gefunden werden können.
 
